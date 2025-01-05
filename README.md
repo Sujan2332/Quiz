@@ -21,7 +21,7 @@
 *Optimized for all screen sizes, ensuring a smooth quiz-taking experience on desktop and mobile.*
 
 ## *Preview*
-[Check out the live version of the quiz here: Try the Quiz Now!]()
+*[Check out the live version of the quiz here: Try the Quiz Now!](https://sujan2332.github.io/Quiz/)*
 
 ## *Tech Stack*
 
