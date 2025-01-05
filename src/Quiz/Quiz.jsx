@@ -127,7 +127,7 @@ const Quiz = () => {
         <>
         <div className="score-container">
         {/* Display the score circle with total score on the last page */}
-        <div className="score-circle" style={{width:"200px",height:"200px",marginTop:"30px",marginRight:"100px"}}>
+        <div className="score-circle">
           <span className="score-text" style={{
               color: totalScore >= 0.35 * totalMarks ? "green" : "red",
             }}>
@@ -141,10 +141,10 @@ const Quiz = () => {
         <table border="1">
           <thead>
             <tr>
-              <th style={{padding:"10px"}}>Section No.</th>
-              <th style={{padding:"10px"}}>Score</th>
-              <th style={{padding:"10px"}}>Total Marks</th>
-              <th style={{padding:"10px"}}>Remarks</th>
+              <th >Section No.</th>
+              <th >Score</th>
+              <th >Total Marks</th>
+              <th >Remarks</th>
             </tr>
           </thead>
           <tbody>
